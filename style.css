@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+
+.watch{
+    border: 1rem dashed white;
+    border-style: dashed;
+    width: 32rem;
+    height: 9rem;
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 5rem;
+
+   
+}
